@@ -17,5 +17,6 @@ if __name__ == '__main__':
     print([1, 2, 3])
     print("Hello World")
     print("Hello", "World")
-
+    print("Hello" + "World")
+    print(1 + 1)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
